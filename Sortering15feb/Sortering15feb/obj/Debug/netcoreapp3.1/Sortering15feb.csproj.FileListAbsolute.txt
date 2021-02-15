@@ -1,0 +1,13 @@
+C:\Users\tomnil001\source\repos\Sortering15feb\Sortering15feb\bin\Debug\netcoreapp3.1\Sortering15feb.exe
+C:\Users\tomnil001\source\repos\Sortering15feb\Sortering15feb\bin\Debug\netcoreapp3.1\Sortering15feb.deps.json
+C:\Users\tomnil001\source\repos\Sortering15feb\Sortering15feb\bin\Debug\netcoreapp3.1\Sortering15feb.runtimeconfig.json
+C:\Users\tomnil001\source\repos\Sortering15feb\Sortering15feb\bin\Debug\netcoreapp3.1\Sortering15feb.runtimeconfig.dev.json
+C:\Users\tomnil001\source\repos\Sortering15feb\Sortering15feb\bin\Debug\netcoreapp3.1\Sortering15feb.dll
+C:\Users\tomnil001\source\repos\Sortering15feb\Sortering15feb\bin\Debug\netcoreapp3.1\Sortering15feb.pdb
+C:\Users\tomnil001\source\repos\Sortering15feb\Sortering15feb\obj\Debug\netcoreapp3.1\Sortering15feb.csprojAssemblyReference.cache
+C:\Users\tomnil001\source\repos\Sortering15feb\Sortering15feb\obj\Debug\netcoreapp3.1\Sortering15feb.AssemblyInfoInputs.cache
+C:\Users\tomnil001\source\repos\Sortering15feb\Sortering15feb\obj\Debug\netcoreapp3.1\Sortering15feb.AssemblyInfo.cs
+C:\Users\tomnil001\source\repos\Sortering15feb\Sortering15feb\obj\Debug\netcoreapp3.1\Sortering15feb.csproj.CoreCompileInputs.cache
+C:\Users\tomnil001\source\repos\Sortering15feb\Sortering15feb\obj\Debug\netcoreapp3.1\Sortering15feb.dll
+C:\Users\tomnil001\source\repos\Sortering15feb\Sortering15feb\obj\Debug\netcoreapp3.1\Sortering15feb.pdb
+C:\Users\tomnil001\source\repos\Sortering15feb\Sortering15feb\obj\Debug\netcoreapp3.1\Sortering15feb.genruntimeconfig.cache
